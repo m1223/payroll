@@ -1,0 +1,17 @@
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\bin\Debug\MiniPayrollUpdate.exe.config
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\bin\Debug\MiniPayrollUpdate.exe
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\bin\Debug\MiniPayrollUpdate.pdb
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.csproj.AssemblyReference.cache
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.Properties.Resources.resources
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.csproj.GenerateResource.cache
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.csproj.CoreCompileInputs.cache
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.exe
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.pdb
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.Dashboard.resources
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.Form2.resources
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.Advance.resources
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.Bonus.resources
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.Salary.resources
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\obj\Debug\MiniPayrollUpdate.Home.resources
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\bin\Debug\payrollDB.mdf
+G:\BUBT\MiniPayrollUpdate\MiniPayrollUpdate\bin\Debug\payrollDB_log.ldf
